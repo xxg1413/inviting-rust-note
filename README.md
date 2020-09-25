@@ -31,6 +31,6 @@
 
 ## 文章
 
- - [1.你为什么要学习Rust](https://mp.weixin.qq.com/s/WS2kikpuHKGxPJ_UBfYhgg){:target="_blank"}
+ - [1.你为什么要学习Rust](https://mp.weixin.qq.com/s/WS2kikpuHKGxPJ_UBfYhgg)
 
 
