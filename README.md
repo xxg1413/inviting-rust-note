@@ -1,7 +1,7 @@
 # Rust实战课程笔记  
 
 
-课程链接： [张汉东的Rust实战课](https://time.geekbang.org/course/intro/100060601)  
+课程链接： [张汉东的Rust实战课](http://gk.link/a/10lHI)  
 我的Rust学习经历: [你为什么要学习Rust](https://mp.weixin.qq.com/s/WS2kikpuHKGxPJ_UBfYhgg)  
 
 
