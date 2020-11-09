@@ -11,7 +11,7 @@
 - Rust入门书  
     - [Rust程序设计](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQEaAVUcXBQyVlgNRQQlW1dCFFlQCxxKQgFHREkdSVJKSQVJHFRXFk9FUlpGQUpLCVBaTFhbXQtWVmpSWRtYHQQSAFIaa2d8Un00fSRjZ3VDN34ndHFhYxRpAUMOHjdUK1sUAxAHVxNYFgsiN1Uca0NsEgZUGloUBxYAUitaJQIVBlUaWhACGgNcGlMlBRIOZUAOe1ZyTjx4J11pamAFXWslMhE3ZStbJQEiRTtMWxxXEVdRHQ5GBBYCARoLHFdFVwBPXEcBQg4HTFISAiIFVBpfHA%3D%3D) 
     - [Rust编程之道](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQEXAV0eWxEyVlgNRQQlW1dCFFlQCxxKQgFHREkdSVJKSQVJHFRXFk9FUlpGQUpLCVBaTFhbXQtWVmpSWRtYEAQaAlUfa21hdA8ybCR0YhBHXW0ya3lgAgFDC0MOHjdUK1sUAxAHVxNYFgsiN1Uca0NsEgZUGloUBxICVitaJQIVBlUaWhACEQFSGF4lBRIOZUAOe1ZyTjx4J11pamAFXWslMhE3ZStbJQEiRTsYCEUAFQJUGFsVChQCBhlfHFYXBFxMW0ZQRQMFE1kSViIFVBpfHA%3D%3D)
-
+- [Stanford CS 110L](https://github.com/xxg1413/CS110L)
 
 ## 目录
 
@@ -29,7 +29,7 @@
 - [12 | 语法面面观：函数与闭包（中）](./note/12.md)
 - [13 | 语法面面观：函数与闭包（下）](./note/13.md)
 - [14 | 语法面面观：模式匹配](./note/14.md)
-- [15 | Rust 语法面面观：智能指针（上）](./note/15.md)
+- [15 | Rust语法面面观：智能指针（上）](./note/15.md)
 - [16 | 语法面面观：智能指针（下）](./note/16.md)
 - [17 | 语法面面观：字符与字符串（上）](./note/17.md)
 - [18 | 语法面面观：字符与字符串（下）](./note/18.md)
@@ -37,6 +37,10 @@
 - [20 | 语法面面观：集合容器（下）](./note/20.md)
 - [21 | 语法面面观：迭代器（上）](./note/21.md)
 - [22 | 语法面面观：迭代器（下）](./note/22.md)
+- [23 | Rust语法面面观：模块](./note/23.md)
+- [24 | Rust语法面面观：Cargo包管理器（上）](./note/24.md)
+- [25 | Rust语法面面观：Cargo包管理器（下）](./note/25.md)
+
 
 
 ## 源码分析
