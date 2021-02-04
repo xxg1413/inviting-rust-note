@@ -1,3 +1,9 @@
+mod environment;
+mod error;
+mod conf;
+
+
 fn main() {
-    println!("Hello, world!");
+    let conf = conf::PoemConfig::read_config();
+    println!("{:#?}", conf);
 }
