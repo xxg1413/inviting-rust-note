@@ -47,6 +47,11 @@
 - [29 | 语法面面观：定义自己的Crate（中）](./note/chapter1/29.md)
 - [30 | 语法面面观：定义自己的Crate（下）](./note/chapter1/30.md)
 - [31 | 作业&第二章预告](./note/chapter1/31.md)
+- [32 | 本章内容介绍：Rust语言架构](./note/chapter2/32.md)
+- [33 | 所有权：内存管理基础知识](./note/chapter2/33.md)
+
+
+
 
 
 
