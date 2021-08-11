@@ -49,6 +49,12 @@
 - [31 | 作业&第二章预告](./note/chapter1/31.md)
 - [32 | 本章内容介绍：Rust语言架构](./note/chapter2/32.md)
 - [33 | 所有权：内存管理基础知识](./note/chapter2/33.md)
+- [34 | 所有权：安全管理之内存安全 ](./note/chapter2/34.md)
+- [35 | 所有权：Copy语义和Copy trait](./note/chapter2/35.md)
+
+
+
+
 
 
 
