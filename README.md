@@ -63,14 +63,12 @@
 2. ann-rs源码分析
 3. smartcore源码分析
 
+[Rust 源码阅读俱乐部](https://github.com/ZhangHanDong/rust-code-reading-club)
+
 
 ## Rust安全
 
 - [Rust-CTF](https://github.com/xxg1413/rust-ctf)
 - [Rust-Security](https://github.com/xxg1413/rust-security)
-
-## 文章
-
- - [1.你为什么要学习Rust](https://mp.weixin.qq.com/s/WS2kikpuHKGxPJ_UBfYhgg)
-
+- [Hacking-with-Rust](https://github.com/xxg1413/Hacking-with-Rust)
 
