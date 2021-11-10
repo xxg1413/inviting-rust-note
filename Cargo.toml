@@ -1,7 +1,7 @@
 [package]
 name = "inviting-rust-note"
 version = "0.1.0"
-authors = ["xxg1413 xxg1413@gmail.com"]
+authors = ["pxiaoer"]
 edition = "2018"
 
 
